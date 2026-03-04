@@ -8,12 +8,12 @@ For training I used the "ground effect" era of F1, using the 2022–2024 seasons
 
 ## Results
 
-| Model | Podium F1 Score |
-| --- | --- |
-| Neural Network | 0.75 |
-| Random Forest | 0.73 |
-| Logistic Regression | 0.69 |
-| XGBoost | 0.69 |
+| Model | Accuracy | F1 Score | AUC |
+| --- | --- | --- | --- |
+| Random Forest | **0.934** | **0.785** | **0.959** |
+| XGBoost | 0.896 | 0.675 | 0.936 |
+| Logistic Regression | 0.853 | 0.661 | 0.947 |
+| Neural Network | 0.880 | 0.508 | 0.926 |
 
 Key finding: Grid position and recent form (average finish over last 3 races) are the strongest predictors of podium finishes, as confirmed by SHAP analysis.
 
