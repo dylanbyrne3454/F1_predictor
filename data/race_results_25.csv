@@ -1,0 +1,260 @@
+Abbreviation,TeamName,GridPosition,Position,Points,Season,RoundNumber,EventName,Podium,Rainfall,AirTemp
+NOR,McLaren,1.0,1.0,25.0,2025,1,Australian Grand Prix,1,True,15.7
+VER,Red Bull Racing,3.0,2.0,18.0,2025,1,Australian Grand Prix,1,True,15.7
+RUS,Mercedes,4.0,3.0,15.0,2025,1,Australian Grand Prix,1,True,15.7
+ANT,Mercedes,16.0,4.0,12.0,2025,1,Australian Grand Prix,0,True,15.7
+ALB,Williams,6.0,5.0,10.0,2025,1,Australian Grand Prix,0,True,15.7
+STR,Aston Martin,13.0,6.0,8.0,2025,1,Australian Grand Prix,0,True,15.7
+HUL,Kick Sauber,17.0,7.0,6.0,2025,1,Australian Grand Prix,0,True,15.7
+LEC,Ferrari,7.0,8.0,4.0,2025,1,Australian Grand Prix,0,True,15.7
+PIA,McLaren,2.0,9.0,2.0,2025,1,Australian Grand Prix,0,True,15.7
+HAM,Ferrari,8.0,10.0,1.0,2025,1,Australian Grand Prix,0,True,15.7
+GAS,Alpine,9.0,11.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+TSU,Racing Bulls,5.0,12.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+OCO,Haas F1 Team,19.0,13.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+BEA,Haas F1 Team,20.0,14.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+LAW,Red Bull Racing,18.0,15.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+BOR,Kick Sauber,15.0,16.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+ALO,Aston Martin,12.0,17.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+SAI,Williams,10.0,18.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+DOO,Alpine,14.0,19.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+HAD,Racing Bulls,11.0,20.0,0.0,2025,1,Australian Grand Prix,0,True,15.7
+PIA,McLaren,1.0,1.0,25.0,2025,2,Chinese Grand Prix,1,False,27.3
+NOR,McLaren,3.0,2.0,18.0,2025,2,Chinese Grand Prix,1,False,27.3
+RUS,Mercedes,2.0,3.0,15.0,2025,2,Chinese Grand Prix,1,False,27.3
+VER,Red Bull Racing,4.0,4.0,12.0,2025,2,Chinese Grand Prix,0,False,27.3
+OCO,Haas F1 Team,11.0,5.0,10.0,2025,2,Chinese Grand Prix,0,False,27.3
+ANT,Mercedes,8.0,6.0,8.0,2025,2,Chinese Grand Prix,0,False,27.3
+ALB,Williams,10.0,7.0,6.0,2025,2,Chinese Grand Prix,0,False,27.3
+BEA,Haas F1 Team,17.0,8.0,4.0,2025,2,Chinese Grand Prix,0,False,27.3
+STR,Aston Martin,14.0,9.0,2.0,2025,2,Chinese Grand Prix,0,False,27.3
+SAI,Williams,15.0,10.0,1.0,2025,2,Chinese Grand Prix,0,False,27.3
+HAD,Racing Bulls,7.0,11.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+LAW,Red Bull Racing,20.0,12.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+DOO,Alpine,18.0,13.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+BOR,Kick Sauber,19.0,14.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+HUL,Kick Sauber,12.0,15.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+TSU,Racing Bulls,9.0,16.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+ALO,Aston Martin,13.0,17.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+LEC,Ferrari,6.0,18.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+HAM,Ferrari,5.0,19.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+GAS,Alpine,16.0,20.0,0.0,2025,2,Chinese Grand Prix,0,False,27.3
+VER,Red Bull Racing,1.0,1.0,25.0,2025,3,Japanese Grand Prix,1,False,14.4
+NOR,McLaren,2.0,2.0,18.0,2025,3,Japanese Grand Prix,1,False,14.4
+PIA,McLaren,3.0,3.0,15.0,2025,3,Japanese Grand Prix,1,False,14.4
+LEC,Ferrari,4.0,4.0,12.0,2025,3,Japanese Grand Prix,0,False,14.4
+RUS,Mercedes,5.0,5.0,10.0,2025,3,Japanese Grand Prix,0,False,14.4
+ANT,Mercedes,6.0,6.0,8.0,2025,3,Japanese Grand Prix,0,False,14.4
+HAM,Ferrari,8.0,7.0,6.0,2025,3,Japanese Grand Prix,0,False,14.4
+HAD,Racing Bulls,7.0,8.0,4.0,2025,3,Japanese Grand Prix,0,False,14.4
+ALB,Williams,9.0,9.0,2.0,2025,3,Japanese Grand Prix,0,False,14.4
+BEA,Haas F1 Team,10.0,10.0,1.0,2025,3,Japanese Grand Prix,0,False,14.4
+ALO,Aston Martin,12.0,11.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+TSU,Red Bull Racing,14.0,12.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+GAS,Alpine,11.0,13.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+SAI,Williams,15.0,14.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+DOO,Alpine,19.0,15.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+HUL,Kick Sauber,16.0,16.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+LAW,Racing Bulls,13.0,17.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+OCO,Haas F1 Team,18.0,18.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+BOR,Kick Sauber,17.0,19.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+STR,Aston Martin,20.0,20.0,0.0,2025,3,Japanese Grand Prix,0,False,14.4
+PIA,McLaren,1.0,1.0,25.0,2025,4,Bahrain Grand Prix,1,False,26.9
+RUS,Mercedes,3.0,2.0,18.0,2025,4,Bahrain Grand Prix,1,False,26.9
+NOR,McLaren,6.0,3.0,15.0,2025,4,Bahrain Grand Prix,1,False,26.9
+LEC,Ferrari,2.0,4.0,12.0,2025,4,Bahrain Grand Prix,0,False,26.9
+HAM,Ferrari,9.0,5.0,10.0,2025,4,Bahrain Grand Prix,0,False,26.9
+VER,Red Bull Racing,7.0,6.0,8.0,2025,4,Bahrain Grand Prix,0,False,26.9
+GAS,Alpine,4.0,7.0,6.0,2025,4,Bahrain Grand Prix,0,False,26.9
+OCO,Haas F1 Team,14.0,8.0,4.0,2025,4,Bahrain Grand Prix,0,False,26.9
+TSU,Red Bull Racing,10.0,9.0,2.0,2025,4,Bahrain Grand Prix,0,False,26.9
+BEA,Haas F1 Team,20.0,10.0,1.0,2025,4,Bahrain Grand Prix,0,False,26.9
+ANT,Mercedes,5.0,11.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+ALB,Williams,15.0,12.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+HAD,Racing Bulls,12.0,13.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+DOO,Alpine,11.0,14.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+ALO,Aston Martin,13.0,15.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+LAW,Racing Bulls,17.0,16.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+STR,Aston Martin,19.0,17.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+BOR,Kick Sauber,18.0,18.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+SAI,Williams,8.0,19.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+HUL,Kick Sauber,16.0,20.0,0.0,2025,4,Bahrain Grand Prix,0,False,26.9
+PIA,McLaren,2.0,1.0,25.0,2025,5,Saudi Arabian Grand Prix,1,False,29.05
+VER,Red Bull Racing,1.0,2.0,18.0,2025,5,Saudi Arabian Grand Prix,1,False,29.05
+LEC,Ferrari,4.0,3.0,15.0,2025,5,Saudi Arabian Grand Prix,1,False,29.05
+NOR,McLaren,10.0,4.0,12.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+RUS,Mercedes,3.0,5.0,10.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+ANT,Mercedes,5.0,6.0,8.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+HAM,Ferrari,7.0,7.0,6.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+SAI,Williams,6.0,8.0,4.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+ALB,Williams,11.0,9.0,2.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+HAD,Racing Bulls,14.0,10.0,1.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+ALO,Aston Martin,13.0,11.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+LAW,Racing Bulls,12.0,12.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+BEA,Haas F1 Team,15.0,13.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+OCO,Haas F1 Team,19.0,14.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+HUL,Kick Sauber,18.0,15.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+STR,Aston Martin,16.0,16.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+DOO,Alpine,17.0,17.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+BOR,Kick Sauber,20.0,18.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+TSU,Red Bull Racing,8.0,19.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+GAS,Alpine,9.0,20.0,0.0,2025,5,Saudi Arabian Grand Prix,0,False,29.05
+PIA,McLaren,4.0,1.0,25.0,2025,6,Miami Grand Prix,1,True,26.5
+NOR,McLaren,2.0,2.0,18.0,2025,6,Miami Grand Prix,1,True,26.5
+RUS,Mercedes,5.0,3.0,15.0,2025,6,Miami Grand Prix,1,True,26.5
+VER,Red Bull Racing,1.0,4.0,12.0,2025,6,Miami Grand Prix,0,True,26.5
+ALB,Williams,7.0,5.0,10.0,2025,6,Miami Grand Prix,0,True,26.5
+ANT,Mercedes,3.0,6.0,8.0,2025,6,Miami Grand Prix,0,True,26.5
+LEC,Ferrari,8.0,7.0,6.0,2025,6,Miami Grand Prix,0,True,26.5
+HAM,Ferrari,12.0,8.0,4.0,2025,6,Miami Grand Prix,0,True,26.5
+SAI,Williams,6.0,9.0,2.0,2025,6,Miami Grand Prix,0,True,26.5
+TSU,Red Bull Racing,10.0,10.0,1.0,2025,6,Miami Grand Prix,0,True,26.5
+HAD,Racing Bulls,11.0,11.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+OCO,Haas F1 Team,9.0,12.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+GAS,Alpine,20.0,13.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+HUL,Kick Sauber,16.0,14.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+ALO,Aston Martin,17.0,15.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+STR,Aston Martin,18.0,16.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+LAW,Racing Bulls,15.0,17.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+BOR,Kick Sauber,13.0,18.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+BEA,Haas F1 Team,19.0,19.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+DOO,Alpine,14.0,20.0,0.0,2025,6,Miami Grand Prix,0,True,26.5
+VER,Red Bull Racing,2.0,1.0,25.0,2025,7,Emilia Romagna Grand Prix,1,False,24.0
+NOR,McLaren,4.0,2.0,18.0,2025,7,Emilia Romagna Grand Prix,1,False,24.0
+PIA,McLaren,1.0,3.0,15.0,2025,7,Emilia Romagna Grand Prix,1,False,24.0
+HAM,Ferrari,12.0,4.0,12.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+ALB,Williams,7.0,5.0,10.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+LEC,Ferrari,11.0,6.0,8.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+RUS,Mercedes,3.0,7.0,6.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+SAI,Williams,6.0,8.0,4.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+HAD,Racing Bulls,9.0,9.0,2.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+TSU,Red Bull Racing,20.0,10.0,1.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+ALO,Aston Martin,5.0,11.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+HUL,Kick Sauber,17.0,12.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+GAS,Alpine,10.0,13.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+LAW,Racing Bulls,15.0,14.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+STR,Aston Martin,8.0,15.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+COL,Alpine,16.0,16.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+BEA,Haas F1 Team,19.0,17.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+BOR,Kick Sauber,14.0,18.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+ANT,Mercedes,13.0,19.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+OCO,Haas F1 Team,18.0,20.0,0.0,2025,7,Emilia Romagna Grand Prix,0,False,24.0
+NOR,McLaren,1.0,1.0,25.0,2025,8,Monaco Grand Prix,1,False,22.4
+LEC,Ferrari,2.0,2.0,18.0,2025,8,Monaco Grand Prix,1,False,22.4
+PIA,McLaren,3.0,3.0,15.0,2025,8,Monaco Grand Prix,1,False,22.4
+VER,Red Bull Racing,4.0,4.0,12.0,2025,8,Monaco Grand Prix,0,False,22.4
+HAM,Ferrari,7.0,5.0,10.0,2025,8,Monaco Grand Prix,0,False,22.4
+HAD,Racing Bulls,5.0,6.0,8.0,2025,8,Monaco Grand Prix,0,False,22.4
+OCO,Haas F1 Team,8.0,7.0,6.0,2025,8,Monaco Grand Prix,0,False,22.4
+LAW,Racing Bulls,9.0,8.0,4.0,2025,8,Monaco Grand Prix,0,False,22.4
+ALB,Williams,10.0,9.0,2.0,2025,8,Monaco Grand Prix,0,False,22.4
+SAI,Williams,11.0,10.0,1.0,2025,8,Monaco Grand Prix,0,False,22.4
+RUS,Mercedes,14.0,11.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+BEA,Haas F1 Team,20.0,12.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+COL,Alpine,18.0,13.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+BOR,Kick Sauber,16.0,14.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+STR,Aston Martin,19.0,15.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+HUL,Kick Sauber,13.0,16.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+TSU,Red Bull Racing,12.0,17.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+ANT,Mercedes,15.0,18.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+ALO,Aston Martin,6.0,19.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+GAS,Alpine,17.0,20.0,0.0,2025,8,Monaco Grand Prix,0,False,22.4
+PIA,McLaren,1.0,1.0,25.0,2025,9,Spanish Grand Prix,1,False,29.2
+NOR,McLaren,2.0,2.0,18.0,2025,9,Spanish Grand Prix,1,False,29.2
+LEC,Ferrari,7.0,3.0,15.0,2025,9,Spanish Grand Prix,1,False,29.2
+RUS,Mercedes,4.0,4.0,12.0,2025,9,Spanish Grand Prix,0,False,29.2
+HUL,Kick Sauber,15.0,5.0,10.0,2025,9,Spanish Grand Prix,0,False,29.2
+HAM,Ferrari,5.0,6.0,8.0,2025,9,Spanish Grand Prix,0,False,29.2
+HAD,Racing Bulls,9.0,7.0,6.0,2025,9,Spanish Grand Prix,0,False,29.2
+GAS,Alpine,8.0,8.0,4.0,2025,9,Spanish Grand Prix,0,False,29.2
+ALO,Aston Martin,10.0,9.0,2.0,2025,9,Spanish Grand Prix,0,False,29.2
+VER,Red Bull Racing,3.0,10.0,1.0,2025,9,Spanish Grand Prix,0,False,29.2
+LAW,Racing Bulls,13.0,11.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+BOR,Kick Sauber,12.0,12.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+TSU,Red Bull Racing,19.0,13.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+SAI,Williams,17.0,14.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+COL,Alpine,18.0,15.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+OCO,Haas F1 Team,16.0,16.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+BEA,Haas F1 Team,14.0,17.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+ANT,Mercedes,6.0,18.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+ALB,Williams,11.0,19.0,0.0,2025,9,Spanish Grand Prix,0,False,29.2
+RUS,Mercedes,1.0,1.0,25.0,2025,10,Canadian Grand Prix,1,True,23.9
+VER,Red Bull Racing,2.0,2.0,18.0,2025,10,Canadian Grand Prix,1,True,23.9
+ANT,Mercedes,4.0,3.0,15.0,2025,10,Canadian Grand Prix,1,True,23.9
+PIA,McLaren,3.0,4.0,12.0,2025,10,Canadian Grand Prix,0,True,23.9
+LEC,Ferrari,8.0,5.0,10.0,2025,10,Canadian Grand Prix,0,True,23.9
+HAM,Ferrari,5.0,6.0,8.0,2025,10,Canadian Grand Prix,0,True,23.9
+ALO,Aston Martin,6.0,7.0,6.0,2025,10,Canadian Grand Prix,0,True,23.9
+HUL,Kick Sauber,11.0,8.0,4.0,2025,10,Canadian Grand Prix,0,True,23.9
+OCO,Haas F1 Team,14.0,9.0,2.0,2025,10,Canadian Grand Prix,0,True,23.9
+SAI,Williams,16.0,10.0,1.0,2025,10,Canadian Grand Prix,0,True,23.9
+BEA,Haas F1 Team,13.0,11.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+TSU,Red Bull Racing,18.0,12.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+COL,Alpine,10.0,13.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+BOR,Kick Sauber,15.0,14.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+GAS,Alpine,20.0,15.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+HAD,Racing Bulls,12.0,16.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+STR,Aston Martin,17.0,17.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+NOR,McLaren,7.0,18.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+LAW,Racing Bulls,19.0,19.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+ALB,Williams,9.0,20.0,0.0,2025,10,Canadian Grand Prix,0,True,23.9
+NOR,McLaren,1.0,1.0,25.0,2025,11,Austrian Grand Prix,1,False,30.5
+PIA,McLaren,3.0,2.0,18.0,2025,11,Austrian Grand Prix,1,False,30.5
+LEC,Ferrari,2.0,3.0,15.0,2025,11,Austrian Grand Prix,1,False,30.5
+HAM,Ferrari,4.0,4.0,12.0,2025,11,Austrian Grand Prix,0,False,30.5
+RUS,Mercedes,5.0,5.0,10.0,2025,11,Austrian Grand Prix,0,False,30.5
+LAW,Racing Bulls,6.0,6.0,8.0,2025,11,Austrian Grand Prix,0,False,30.5
+ALO,Aston Martin,11.0,7.0,6.0,2025,11,Austrian Grand Prix,0,False,30.5
+BOR,Kick Sauber,8.0,8.0,4.0,2025,11,Austrian Grand Prix,0,False,30.5
+HUL,Kick Sauber,20.0,9.0,2.0,2025,11,Austrian Grand Prix,0,False,30.5
+OCO,Haas F1 Team,17.0,10.0,1.0,2025,11,Austrian Grand Prix,0,False,30.5
+BEA,Haas F1 Team,15.0,11.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+HAD,Racing Bulls,13.0,12.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+GAS,Alpine,10.0,13.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+STR,Aston Martin,16.0,14.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+COL,Alpine,14.0,15.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+TSU,Red Bull Racing,18.0,16.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+ALB,Williams,12.0,17.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+VER,Red Bull Racing,7.0,18.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+ANT,Mercedes,9.0,19.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+SAI,Williams,19.0,20.0,0.0,2025,11,Austrian Grand Prix,0,False,30.5
+NOR,McLaren,3.0,1.0,25.0,2025,12,British Grand Prix,1,True,18.0
+PIA,McLaren,2.0,2.0,18.0,2025,12,British Grand Prix,1,True,18.0
+HUL,Kick Sauber,19.0,3.0,15.0,2025,12,British Grand Prix,1,True,18.0
+HAM,Ferrari,5.0,4.0,12.0,2025,12,British Grand Prix,0,True,18.0
+VER,Red Bull Racing,1.0,5.0,10.0,2025,12,British Grand Prix,0,True,18.0
+GAS,Alpine,8.0,6.0,8.0,2025,12,British Grand Prix,0,True,18.0
+STR,Aston Martin,17.0,7.0,6.0,2025,12,British Grand Prix,0,True,18.0
+ALB,Williams,13.0,8.0,4.0,2025,12,British Grand Prix,0,True,18.0
+ALO,Aston Martin,7.0,9.0,2.0,2025,12,British Grand Prix,0,True,18.0
+RUS,Mercedes,4.0,10.0,1.0,2025,12,British Grand Prix,0,True,18.0
+BEA,Haas F1 Team,18.0,11.0,0.0,2025,12,British Grand Prix,0,True,18.0
+SAI,Williams,9.0,12.0,0.0,2025,12,British Grand Prix,0,True,18.0
+OCO,Haas F1 Team,14.0,13.0,0.0,2025,12,British Grand Prix,0,True,18.0
+LEC,Ferrari,6.0,14.0,0.0,2025,12,British Grand Prix,0,True,18.0
+TSU,Red Bull Racing,11.0,15.0,0.0,2025,12,British Grand Prix,0,True,18.0
+ANT,Mercedes,10.0,16.0,0.0,2025,12,British Grand Prix,0,True,18.0
+HAD,Racing Bulls,12.0,17.0,0.0,2025,12,British Grand Prix,0,True,18.0
+BOR,Kick Sauber,16.0,18.0,0.0,2025,12,British Grand Prix,0,True,18.0
+LAW,Racing Bulls,15.0,19.0,0.0,2025,12,British Grand Prix,0,True,18.0
+COL,Alpine,20.0,20.0,0.0,2025,12,British Grand Prix,0,True,18.0
+PIA,McLaren,2.0,1.0,25.0,2025,13,Belgian Grand Prix,1,True,17.3
+NOR,McLaren,1.0,2.0,18.0,2025,13,Belgian Grand Prix,1,True,17.3
+LEC,Ferrari,3.0,3.0,15.0,2025,13,Belgian Grand Prix,1,True,17.3
+VER,Red Bull Racing,4.0,4.0,12.0,2025,13,Belgian Grand Prix,0,True,17.3
+RUS,Mercedes,6.0,5.0,10.0,2025,13,Belgian Grand Prix,0,True,17.3
+ALB,Williams,5.0,6.0,8.0,2025,13,Belgian Grand Prix,0,True,17.3
+HAM,Ferrari,18.0,7.0,6.0,2025,13,Belgian Grand Prix,0,True,17.3
+LAW,Racing Bulls,9.0,8.0,4.0,2025,13,Belgian Grand Prix,0,True,17.3
+BOR,Kick Sauber,10.0,9.0,2.0,2025,13,Belgian Grand Prix,0,True,17.3
+GAS,Alpine,13.0,10.0,1.0,2025,13,Belgian Grand Prix,0,True,17.3
+BEA,Haas F1 Team,12.0,11.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+HUL,Kick Sauber,14.0,12.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+TSU,Red Bull Racing,7.0,13.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+STR,Aston Martin,16.0,14.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+OCO,Haas F1 Team,11.0,15.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+ANT,Mercedes,19.0,16.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+ALO,Aston Martin,20.0,17.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+SAI,Williams,17.0,18.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+COL,Alpine,15.0,19.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
+HAD,Racing Bulls,8.0,20.0,0.0,2025,13,Belgian Grand Prix,0,True,17.3
