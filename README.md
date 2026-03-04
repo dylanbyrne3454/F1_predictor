@@ -54,43 +54,9 @@ F1_PREDICTOR/
 
 ## How to Run
 
-**1. Clone the repo**
-
-```bash
-git clone https://github.com/dylanbyrne3454/F1_predictor.git
-cd F1_predictor
-```
-
-**2. Create a virtual environment and install dependencies**
-
-```bash
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # Mac/Linux
-
-pip install -r requirements.txt
-```
-
-**3. Run the notebooks in order**
-
-- `01_data_collection.ipynb` — collects race results from the FastF1 API and saves to `data/`
-- `02_creating_models.ipynb` — cleans the data, engineers features and trains the models
-
----
-
-## Key Libraries
-
-| Library | Version |
-| --- | --- |
-| fastf1 | 3.8.1 |
-| pandas | 2.3.3 |
-| scikit-learn | 1.8.0 |
-| xgboost | 3.2.0 |
-| shap | 0.51.0 |
-| matplotlib | 3.10.8 |
-| seaborn | 0.13.2 |
-
-Full dependencies in `requirements.txt`.
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run `01_data_collection.ipynb` to collect data
+3. Run `02_creating_models.ipynb` for feature engineering, modelling and results
 
 ---
 
